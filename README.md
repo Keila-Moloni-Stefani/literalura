@@ -181,7 +181,7 @@ A API é gratuita e possui dados de mais de 70.000 livros do Projeto Gutenberg.
 
 ## Resolução de Problemas
 
-### Erro: "Connection refused" ao PostgreSQL
+### Erro: "Connection refused" ao PostgreSQL"
 **Solução:** Verifique se o PostgreSQL está rodando e se as credenciais estão corretas no `application.properties`
 
 ### Erro: "Database literalura_db does not exist"
@@ -190,7 +190,7 @@ A API é gratuita e possui dados de mais de 70.000 livros do Projeto Gutenberg.
 CREATE DATABASE literalura_db;
 ```
 
-### Livros não aparecem ao buscar
+### Erro: "Livros não aparecem ao buscar"
 **Solução:** Verifique sua conexão com a internet e se a API Gutendex está acessível
 
 ---
@@ -221,4 +221,5 @@ Este projeto foi desenvolvido para fins educacionais como parte do desafio Liter
 Desenvolvido por Keila Moloni Stefani
 
 ⭐ Se este projeto foi útil para você, considere dar uma estrela!
+
 
