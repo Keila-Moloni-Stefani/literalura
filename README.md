@@ -9,7 +9,29 @@ Este projeto foi desenvolvido como parte da Formação ONE (Oracle Next Educatio
 - Queries personalizadas com Spring Data JPA
 
 ---
+## Demonstração
 
+### Menu Principal
+<p align="center">
+  <img src="./screenshots/1.png" alt="Menu" width="700">
+</p>
+
+### Resultado da Busca de Livros
+<p align="center">
+  <img src="./screenshots/2.png" alt="Busca" width="700">
+</p>
+
+### Listagem Livros Registrados
+<p align="center">
+  <img src="./screenshots/3.png" alt="Livros" width="700">
+</p>
+
+### Listagem Autores Registrados
+<p align="center">
+  <img src="./screenshots/4.png" alt="Autores" width="700">
+</p>
+
+---
 ## Funcionalidades
 
 - ✅ **Buscar livro pelo título** - Consulta a API Gutendex e salva no banco de dados
@@ -39,10 +61,10 @@ Este projeto foi desenvolvido como parte da Formação ONE (Oracle Next Educatio
 
 Antes de executar o projeto, você precisa ter instalado:
 
-- ☑️ **JDK 21** ou superior - [Download](https://www.oracle.com/java/technologies/downloads/)
-- ☑️ **PostgreSQL 15** ou superior - [Download](https://www.postgresql.org/download/)
-- ☑️ **Maven** (ou use o Maven Wrapper incluído no projeto)
-- ☑️ **IDE** (IntelliJ IDEA, Eclipse, VS Code, etc.)
+- ✅ **JDK 21** ou superior - [Download](https://www.oracle.com/java/technologies/downloads/)
+- ✅ **PostgreSQL 15** ou superior - [Download](https://www.postgresql.org/download/)
+- ✅ **Maven** (ou use o Maven Wrapper incluído no projeto)
+- ✅ **IDE** (IntelliJ IDEA, Eclipse, VS Code, etc.)
 
 ---
 
@@ -221,5 +243,6 @@ Este projeto foi desenvolvido para fins educacionais como parte do desafio Liter
 Desenvolvido por Keila Moloni Stefani
 
 ⭐ Se este projeto foi útil para você, considere dar uma estrela!
+
 
 
