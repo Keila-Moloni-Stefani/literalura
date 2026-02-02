@@ -73,7 +73,7 @@ Antes de executar o projeto, você precisa ter instalado:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/literalura.git
+git clone https://github.com/Keila-Moloni-Stefani/literalura.git
 cd literalura
 ```
 
@@ -243,6 +243,7 @@ Este projeto foi desenvolvido para fins educacionais como parte do desafio Liter
 Desenvolvido por Keila Moloni Stefani
 
 ⭐ Se este projeto foi útil para você, considere dar uma estrela!
+
 
 
 
